@@ -1,0 +1,19 @@
+{
+  "name": "clinic-appointments",
+  "version": "1.0.0",
+  "description": "Clinic appointment booking (patients + doctors)",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "node --test \"tests/**/*.test.js\"",
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "seed": "node scripts/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
