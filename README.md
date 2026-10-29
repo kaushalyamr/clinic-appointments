@@ -203,7 +203,10 @@ offline/PWA support. Doctor profiles are seeded rather than self-edited beyond a
 
 **Demo video** — record your own 3–5 minute screen capture: sign in as a patient → book a slot
 → show it on *My appointments* → sign in as the doctor → complete the visit → change an
-availability window and show the patient view updating.
+availability window and show the patient view updating. Upload it (YouTube/Vimeo/Loom) and link
+it here:
+
+- Demo video: _add your link after recording_
 
 ## AI tools used
 
